@@ -1,0 +1,6 @@
+2024-04-20 19:45:07,174 : INFO : Test_singin : test_signin : 21 : Verify URL 
+2024-04-20 19:45:07,189 : INFO : Test_singin : test_signin : 24 : Enter the Email 
+2024-04-20 19:45:07,575 : INFO : Test_singin : test_signin : 26 : Enter the Password 
+2024-04-20 19:45:07,692 : INFO : Test_singin : test_signin : 28 : Click SignIN Button 
+2024-04-20 19:45:07,792 : INFO : Test_singin : test_signin : 30 : Wait till 40 sec complete locator get visible 
+2024-04-20 19:45:47,793 : INFO : Test_singin : test_signin : 33 : Verify ErrorMessage and CurrentPage URL 

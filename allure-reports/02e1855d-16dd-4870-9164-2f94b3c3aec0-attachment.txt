@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_singin:test_signin.py:21 Verify URL
+[32mINFO    [0m Test_singin:test_signin.py:24 Enter the Email
+[32mINFO    [0m Test_singin:test_signin.py:26 Enter the Password
+[32mINFO    [0m Test_singin:test_signin.py:28 Click SignIN Button
+[32mINFO    [0m Test_singin:test_signin.py:30 Wait till 40 sec complete locator get visible
+[32mINFO    [0m Test_singin:test_signin.py:33 Verify ErrorMessage and CurrentPage URL
